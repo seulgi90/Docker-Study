@@ -1,3 +1,2 @@
-docker
-- 식물관리 어플리케이션 구성
+easyDocker 강의 정리
 
